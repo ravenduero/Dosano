@@ -1,8 +1,8 @@
 #!/usr/bin/perl
 #==============INFO==============#
-# SCRIPT: Dosano
+# SCRIPT: Arcan
 #    JOB: Denial Of Service Attack[DosAttack]
-#CodedBy: Oseid Aldary
+#CodedBy: elite
 
 #=== Use Modules ===#
 use IO::Socket;
@@ -14,7 +14,7 @@ system("cls || clear");
 print q{ 
                    .-"      "-.  
                   /            \ 
-                 |    JOKER11   | 
+                 |    Elite24   | 
                  |,  .-.  .-.  ,| 
                  | )(__/  \__)( | 
                  |/     /\     \| 
@@ -24,7 +24,7 @@ print q{
         )_/        \          / 
        (@           `--------` Welcome! 
 
- [---]   by:> OSEID ALDARY   [---]
+ [---]   by:> Arcan  Elite   [---]
 };
 # Check Intenret Connection !
 my $check = IO::Socket::INET->new( 'PeerAddr'=>'www.google.com', 
@@ -110,6 +110,6 @@ $sock->close()
 #####################  END OF SCRIPT #########################
 #####################                #########################
 ##############################################################
-#This Script by Oseid Aldary
+#This Script by Elitejobs
 #Have a nice day :)
 #GoodBye
